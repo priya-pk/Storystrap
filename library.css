@@ -46,13 +46,22 @@ header .navbar-toggler-icon{
 .box{
     background-color: white; 
     margin-top: -100px;
+    padding-bottom: 50px;
+    color: rgb(90, 87, 87);
+}
+.read{
+    text-decoration: none !important;
+    color: grey !important;
+}
+span{
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    font-size:4;
 }
 img{
     height: 100px;
     width: 100px;
-}
-.box{
-    padding-bottom: 50px;
 }
 /* .content-body{
     padding-bottom: 10px;
